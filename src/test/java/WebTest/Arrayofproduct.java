@@ -40,5 +40,16 @@ public class Arrayofproduct {
 		}
 
 	}
+	
+	@Test
+	public void test1(){
+		System.out.println("addedT1");
+	}
+	
+	@Test
+	public void test2(){
+		System.out.println("addedT2");
+		System.out.println("addedT2");
+	}
 
 }
