@@ -50,5 +50,19 @@ public class Arrayofproductstocart {
 		System.out.println("TestA22");
 		System.out.println("TestA23");
 	}
+	
+	@Test
+	public void TestA3() {
+		System.out.println("TestA31");
+		System.out.println("TestA32");
+		System.out.println("TestA33");
+	}
+	
+	@Test
+	public void TestA4() {
+		System.out.println("TestA41");
+		System.out.println("TestA42");
+		System.out.println("TestA43");
+	}
 
 }

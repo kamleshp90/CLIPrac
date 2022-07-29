@@ -32,5 +32,19 @@ public class AutosuggestiveDropdown {
 		}
 
 	}
+	
+	@Test
+	public void ddTestA() {
+		System.out.println("DDtestA11");
+		System.out.println("DDtestA12");
+		System.out.println("DDtestA13");
+	}
+
+	@Test
+	public void ddTestB() {
+		System.out.println("DDtestB1");
+		System.out.println("DDtestB2");
+		System.out.println("DDtestB3");
+	}
 
 }
